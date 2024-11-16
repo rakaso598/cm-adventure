@@ -1,4 +1,4 @@
-### <모여라! 커뮤니티 어드벤처>
+## <모여라! 커뮤니티 어드벤처>
 
 이 게임은 스프링부트 웹소켓과 Phaser.js를 활용한 온라인 2D 데모입니다.
 
@@ -8,6 +8,6 @@
 
 ---
 
-# 사용된 기술 :
+### 사용된 기술 :
 
 SpringBoot, HTML, CSS, JavaScript, WebSocket, Phaser.js
