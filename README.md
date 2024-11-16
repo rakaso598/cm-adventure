@@ -10,4 +10,4 @@
 
 ### 사용된 기술 :
 
-SpringBoot, HTML, CSS, JavaScript, WebSocket, Phaser.js
+SpringBoot, HTML, CSS, JavaScript, WebSocket, Phaser.js 등
