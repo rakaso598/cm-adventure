@@ -1,7 +1,8 @@
 # 모여라! 커뮤니티 어드벤처 프로젝트
 
-이 프로젝트는 Spring Boot WebSocket과 Phaser.js를 활용하여 개발된 온라인 2D 게임 데모입니다. 실시간으로 상호작용하는 커뮤니티 기반의 모험을 제공하며, 블로그 게시 및 소스 공개를 위한 GitHub 저장소입니다.
-[블로그 포스팅](https://rexondex.tistory.com/entry/2D-%EC%9B%B9-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B2%8C%EC%9E%84-%EA%B3%B5%EA%B0%84-%EB%B0%8F-%EC%B1%84%ED%8C%85%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EC%9B%B9%EC%86%8C%EC%BC%93)  
+이 프로젝트는 Spring Boot WebSocket과 Phaser.js를 활용하여 개발된 온라인 2D 게임 데모입니다. 실시간으로 상호작용하는 커뮤니티 기반의 모험을 제공하며, 블로그 게시 및 소스 공개를 위한 GitHub 저장소입니다.   
+
+[`블로그 포스팅 자료`](https://rexondex.tistory.com/entry/2D-%EC%9B%B9-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B2%8C%EC%9E%84-%EA%B3%B5%EA%B0%84-%EB%B0%8F-%EC%B1%84%ED%8C%85%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-%EC%9B%B9%EC%86%8C%EC%BC%93)  
 
 ## 프로젝트 개요
 
